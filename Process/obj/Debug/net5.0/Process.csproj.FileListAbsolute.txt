@@ -1,0 +1,16 @@
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.AssemblyInfoInputs.cache
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.AssemblyInfo.cs
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.csprojAssemblyReference.cache
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\Process.exe
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\Process.deps.json
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\Process.runtimeconfig.json
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\Process.runtimeconfig.dev.json
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\Process.dll
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\ref\Process.dll
+D:\HomeworkGB\HW-06\Process\bin\Debug\net5.0\Process.pdb
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.dll
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\ref\Process.dll
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.pdb
+D:\HomeworkGB\HW-06\Process\obj\Debug\net5.0\Process.genruntimeconfig.cache
