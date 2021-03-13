@@ -24,7 +24,7 @@ namespace Process1
 
 
 
-
+            
             var s = Console.ReadLine();
             if (s == "1")
             {
@@ -35,76 +35,21 @@ namespace Process1
                 Console.WriteLine($"killed {Pid}");
 
             }
-
-
-
-
-
-        }
-    }
-}          /*
-                    case "2":
-
-                        try
-                        {
-                            Console.WriteLine("Введиде имя процесса");
-                            Process.GetProcessesByName(Console.ReadLine())[0].Kill();
-                            Process.GetProcessesByName(Console.ReadLine())[0].WaitForExit();
-                        }
-                        catch (Exception e)
-                        {
-                            Console.WriteLine("no correct.");
-
-                        }
-                        break;
-
-                    default:
-                        Console.WriteLine("Неправильно выбран режим");
-                        break;
-                }
-            }
-            */
-
-
-/*
-
-{
-    string s = Console.ReadLine();
-
-    while (i > 0)
-    {
-        if (string.IsNullOrEmpty(s))
-            break;
-        if (s == "1")
-        {
-            try
-            {
-                Console.WriteLine("Введиде ID"); 
-               Process.GetProcessById(Int32.Parse(Console.ReadLine())).Kill();
-                Process.GetProcessById(Int32.Parse(Console.ReadLine())).WaitForExit();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("no correct.");
-                continue;
-            }
-
-        }
-        if (s == "2")
-        {
-            try
+            if (s == "2")
             {
                 Console.WriteLine("Введиде имя процесса");
                 Process.GetProcessesByName(Console.ReadLine())[0].Kill();
-                Process.GetProcessesByName(Console.ReadLine())[0].WaitForExit();
+                //Process.GetProcessesByName(Console.ReadLine())[0].WaitForExit();
+                Console.WriteLine($"killed ");
+
             }
-            catch (Exception e)
+            if ((s != "2") && (s != "1"))
             {
-                Console.WriteLine("no correct.");
-                continue;
+                Console.WriteLine($" No killed ");
             }
+
+            Console.ReadKey();
+
         }
-
     }
-}*/
-
+}          /
