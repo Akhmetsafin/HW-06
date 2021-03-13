@@ -38,7 +38,7 @@ namespace Process1
                            Process.GetProcessById(Int32.Parse(Console.ReadLine())).Kill();
                             Process.GetProcessById(Int32.Parse(Console.ReadLine())).WaitForExit();
                         }
-                        catch (Exception e)//2222222222
+                        catch (Exception e)
                         {
                             Console.WriteLine("no correct.");
                             continue;
